@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../content-manager-app"
+		},
+		{
+			"path": "../../../content-manager-bulma"
+		},
+		{
+			"path": "../../../content-manager-bulma-api"
+		},
+		{
+			"path": "../../../content-manager-land-page"
+		},
+		{
+			"path": "../../../frontend-mentor"
+		}
+	],
+	"settings": {}
+}
